@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263415027263",
+    "project_id": "set-wallpaper-1",
+    "storage_bucket": "set-wallpaper-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263415027263:android:6c4653e19de898c6898a8a",
+        "android_client_info": {
+          "package_name": "com.nameofcoder.setwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263415027263-0it5ce7od7cs0087llec7ad8cq5d9nmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK1HbB_XTv73_cb4umCsSxMLg_4_MmmB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263415027263-0it5ce7od7cs0087llec7ad8cq5d9nmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
